@@ -1,0 +1,8 @@
+altgraph==0.17.4
+EbookLib==0.18
+lxml==4.9.3
+macholib==1.16.3
+packaging==23.1
+pyinstaller==6.0.0
+pyinstaller-hooks-contrib==2023.9
+six==1.16.0
